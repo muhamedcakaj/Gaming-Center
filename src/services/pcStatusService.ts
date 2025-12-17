@@ -1,5 +1,5 @@
 import type { PcStatus } from "../types/PcStatus"; 
-const API_URL = "http://localhost:8080"; 
+const API_URL = "https://gamingcenter-3.onrender.com/"; 
 export const getBusyPcs = async (): Promise<PcStatus[]> => { 
 const response = await fetch(API_URL); 
 if (!response.ok) {
