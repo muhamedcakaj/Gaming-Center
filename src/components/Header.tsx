@@ -6,7 +6,6 @@ import {
   Monitor,
   Activity,
   Calendar,
-  Crown,
 } from "lucide-react";
 
 function Header() {
