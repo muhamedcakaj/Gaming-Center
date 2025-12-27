@@ -16,7 +16,7 @@ function Header() {
       <div className="flex items-center justify-center gap-3 mb-4">
         <Headset className="w-9 h-9 md:w-12 md:h-12 text-amber-500" />
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-gray-100">
-          MVP GAMING
+          GAMING CENTER
         </h1>
         <Skull className="w-9 h-9 md:w-12 md:h-12 text-amber-500" />
       </div>
